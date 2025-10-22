@@ -6,6 +6,7 @@ import devRoutes from './routes/developerRoutes.js'
 import gameRoutes from './routes/gameRoutes.js'
 import reviewRoutes from './routes/reviewRoutes.js';
 
+const PORT = 3000
 const app = express();
 app.use(express.json());
 
