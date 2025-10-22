@@ -1,0 +1,39 @@
+
+  [
+  {
+    "_id": "68f863ceb315198e48399802",
+    "name": "Valve",
+    "founded": 1996,
+    "__v": 0
+  },
+  {
+    "_id": "68f863f1b315198e48399805",
+    "name": "FromSoft",
+    "founded": 1999,
+    "__v": 0
+  },
+  {
+    "_id": "68f86402b315198e48399807",
+    "name": "Rockstar Games",
+    "founded": 1999,
+    "__v": 0
+  },
+  {
+    "_id": "68f86415b315198e4839980b",
+    "name": "Nova Studios",
+    "founded": 2003,
+    "__v": 0
+  },
+  {
+    "_id": "68f8643cb315198e4839980d",
+    "name": "Good Game Studios",
+    "founded": 2004,
+    "__v": 0
+  },
+  {
+    "_id": "68f86455b315198e4839980f",
+    "name": "Bad Game Studios",
+    "founded": 2004,
+    "__v": 0
+  }
+  ]

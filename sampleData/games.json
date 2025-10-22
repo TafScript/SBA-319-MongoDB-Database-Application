@@ -1,0 +1,38 @@
+
+  [
+  {
+    "_id": "68f85fc0350ed4e714313eef",
+    "title": "Kill Ball",
+    "genre": "Arena",
+    "developer": "Tafari",
+    "__v": 0
+  },
+  {
+    "_id": "68f86070350ed4e714313ef4",
+    "title": "Admin House",
+    "genre": "Open World",
+    "developer": "Tafari",
+    "__v": 0
+  },
+  {
+    "_id": "68f860d1b2e6b9f94e5834e5",
+    "title": "Space Marines",
+    "genre": "Open World",
+    "developer": "FromSoft",
+    "__v": 0
+  },
+  {
+    "_id": "68f860dbb2e6b9f94e5834e7",
+    "title": "Space Marines",
+    "genre": "Open World",
+    "developer": "Banana Studios",
+    "__v": 0
+  },
+  {
+    "_id": "68f860f3b2e6b9f94e5834e9",
+    "title": "Find the Killer",
+    "genre": "Close World",
+    "developer": "Banana Studios",
+    "__v": 0
+  }
+]

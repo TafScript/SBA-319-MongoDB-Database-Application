@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "68f862fdb315198e483997f1",
+    "game": "Dark Souls",
+    "rating": 10,
+    "comment": "good fun!",
+    "__v": 0
+  },
+  {
+    "_id": "68f86313b315198e483997f3",
+    "game": "GTA 6",
+    "rating": 10,
+    "comment": "Can't wait for GTA 7!",
+    "__v": 0
+  },
+  {
+    "_id": "68f86341b315198e483997f6",
+    "game": "Goon Simulator 3",
+    "rating": 2,
+    "comment": "Goon Simulater 2 was better",
+    "__v": 0
+  },
+  {
+    "_id": "68f86359b315198e483997f9",
+    "game": "Witcher 3",
+    "rating": 9,
+    "comment": "Solid!",
+    "__v": 0
+  },
+  {
+    "_id": "68f86371b315198e483997fc",
+    "game": "Roblox",
+    "rating": 9,
+    "comment": "Great games!",
+    "__v": 0
+  }
+]
