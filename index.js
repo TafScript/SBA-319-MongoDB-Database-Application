@@ -20,4 +20,4 @@ app.use('/developers', devRoutes);
 app.use('/games', gameRoutes);
 app.use('/reviews', reviewRoutes);
 
-app.listen(prompt, () => console.log("Server running on Port: ", PORT));
+app.listen(PORT, () => console.log(`Server running on ${PORT}`));

@@ -5,8 +5,8 @@ const DeveloperSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    age: {
-        type: Number,
+    founded: {
+        type: Number, //year
         required: true
     }
 })
